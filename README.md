@@ -6,17 +6,17 @@ Estou até o momento tenho utilizados os cursos como um reciclagem de conhecimen
 
 Já aprendi a realizar algums processos do Git
 
-. Inicialização do projeto
-. Verificar os status do projeto
-. Adicionar arquivos ao projeto
-. Realizar o commit
-. Clonar projeto
-. Ignorar aquivos
-. Listar repositorios remotos
-. Enviar dados ao repositorio remoto
-. Atualizar o repositorio
-. Criar um Banch
-. Dentre outros
+.Inicialização do projeto
+.Verificar os status do projeto
+.Adicionar arquivos ao projeto
+.Realizar o commit
+.Clonar projeto
+.Ignorar aquivos
+.Listar repositorios remotos
+.Enviar dados ao repositorio remoto
+.Atualizar o repositorio
+.Criar um Banch
+.Dentre outros
 
 
 #TeamJavaCog
